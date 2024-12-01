@@ -134,6 +134,8 @@ Set password expiration, minimum age, and warning period globally.
    sudo chage -M 90 -m 7 -W 14 <username>
    ```
 
+![image](https://github.com/user-attachments/assets/5d29c0b7-666d-42bd-aae2-3bebcb316d51)
+
 ---
 
 ## Step 7: Test the Configuration

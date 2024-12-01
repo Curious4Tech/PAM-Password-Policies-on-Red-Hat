@@ -23,6 +23,8 @@ PAM is typically pre-installed. Verify its installation with:
 rpm -q pam
 ```
 
+![image](https://github.com/user-attachments/assets/dc61cb8e-f6ad-4ed9-82ba-f71025bacfc7)
+
 If not installed, install it:
 
 ```bash

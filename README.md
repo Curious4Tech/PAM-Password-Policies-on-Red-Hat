@@ -172,6 +172,7 @@ Always back up important configuration files before making changes:
 sudo cp /etc/pam.d/system-auth /etc/pam.d/system-auth.bak
 sudo cp /etc/security/pwquality.conf /etc/security/pwquality.conf.bak
 ```
+![image](https://github.com/user-attachments/assets/657369f8-288c-4dc4-ac33-8ea9610e76e2)
 
 ---
 

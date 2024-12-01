@@ -126,6 +126,8 @@ Set password expiration, minimum age, and warning period globally.
    PASS_WARN_AGE 14
    ```
 
+![image](https://github.com/user-attachments/assets/7aae284b-4933-401c-b4af-e6bbdc42338e)
+
 3. Apply the settings to specific users:
 
    ```bash

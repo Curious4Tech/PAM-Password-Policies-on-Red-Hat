@@ -157,10 +157,7 @@ Set password expiration, minimum age, and warning period globally.
    sudo tail -f /var/log/secure
    ```
 
-2. Verify the policy configuration:
-   ```bash
-   sudo authconfig --test | grep -i password
-   ```
+![image](https://github.com/user-attachments/assets/4d548492-b474-4adb-ba11-0625f6e302bb)
 
 ---
 

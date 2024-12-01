@@ -42,10 +42,14 @@ The `libpwquality` package is used to enforce password policies.
    sudo yum install libpwquality
    ```
 
+![image](https://github.com/user-attachments/assets/86d302ca-6584-464e-8752-39183ecc1409)
+
+
 2. Verify the installation:
    ```bash
    rpm -q libpwquality
    ```
+![image](https://github.com/user-attachments/assets/743c53a3-fa95-4876-b89a-009428e04fef)
 
 ---
 

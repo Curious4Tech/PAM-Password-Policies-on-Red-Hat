@@ -144,10 +144,9 @@ Set password expiration, minimum age, and warning period globally.
    ```bash
    sudo passwd <username>
    ```
-
-![image](https://github.com/user-attachments/assets/d8d89f89-f168-4c69-83d3-c8fb75e56b0c)
-
 2. Attempt to set weak passwords to ensure enforcement of the policies.
+
+![image](https://github.com/user-attachments/assets/127c0d49-d5f9-4034-9edc-9e192630e375)
 
 ---
 

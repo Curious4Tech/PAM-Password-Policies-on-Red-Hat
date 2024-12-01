@@ -97,7 +97,7 @@ maxclassrepeat = 2       # Disallow more than 2 consecutive characters from the 
 2. Locate or add the following lines:
 
    ```plaintext
-   password requisite pam_pwquality.so retry=3 authtok_type=
+   password requisite pam_pwquality.so retry=3 authtok_type=password
    password required pam_unix.so use_authtok remember=5
    ```
 

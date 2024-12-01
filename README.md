@@ -80,7 +80,10 @@ ocredit = -1             # Require at least one special character
 lcredit = -1             # Require at least one lowercase letter
 maxrepeat = 3            # Disallow more than 3 repeated characters
 maxclassrepeat = 2       # Disallow more than 2 consecutive characters from the same class
+dictcheck = 1            # Check for the words from the cracklib dictionary.
 ```
+
+![image](https://github.com/user-attachments/assets/6642ce80-0ad9-4af6-acfd-ded145265179)
 
 ---
 

@@ -179,8 +179,3 @@ sudo cp /etc/security/pwquality.conf /etc/security/pwquality.conf.bak
 - [PAM Official Documentation](https://www.linux-pam.org/)
 
 ---
-
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-```
